@@ -28,4 +28,6 @@ Getting value out of the data industrial companies already have: messy documents
 
 Python · PyTorch · Hugging Face Transformers · scikit-learn · spaCy · pandas · Google Colab · Git
 
+### Contact
 
+[LinkedIn](https://www.linkedin.com/in/michael-benning-b75aa327/)
