@@ -2,7 +2,7 @@
 
 **Industrial AI leader.** 30+ years running engineering and operations programs in energy and manufacturing, now applying machine learning and language models to the problems I spent my career on.
 
-- 🎓 **MS, Data Science & AI**, Harvard Extension School (May 2027)
+- 🎓 **ALM, Data Science and Artificial Intelligence**, Harvard Extension School (May 2027)
 - 🛢️ **25 years at Shell**: field engineering, subsea surveillance and delivery management (scope above $700M, teams of 70)
 - 🏭 **Operational excellence consulting** for Cummins, Allison Transmission, Sub-Zero Wolf and Sandia National Laboratories: product development, PLM and requirements management
 - ⚙️ **BS, Mechanical Engineering**, South Dakota State University
