@@ -4,7 +4,7 @@
 
 - 🎓 **MS, Data Science & AI**, Harvard Extension School (May 2027)
 - 🛢️ **25 years at Shell**: field engineering, subsea surveillance and delivery management (scope above $700M, teams of 70)
-- 🏭 **Operational excellence consulting** for manufacturers in heavy-duty engines, transmissions and premium appliances
+- 🏭 **Operational excellence consulting** for Cummins, Allison Transmission, Sub-Zero Wolf and Sandia National Laboratories: product development, PLM and requirements management
 - ⚙️ **BS, Mechanical Engineering**, South Dakota State University
 - 📍 Midwest: West Michigan and Chicago
 
